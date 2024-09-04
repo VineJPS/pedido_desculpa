@@ -15,7 +15,8 @@ function nao(){
     var larguraAtualSim = parseInt(window.getComputedStyle(buttonSim).width);
     var novaLarguraSim = larguraAtualSim + 20;
     buttonSim.style.width = novaLarguraSim + "px";
-    
-   
-   
+}
+
+function sim(){
+    alert("Obrigado por me perdoar amor, prometo não fazer denovo 😘")
 }
